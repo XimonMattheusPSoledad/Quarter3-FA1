@@ -1,6 +1,3 @@
-<!DOCTYPE html>
-    <html>
-
 <script>
 let nickname = "Gilan";
 let heightInInches = 62;
@@ -14,5 +11,3 @@ let weightInLbs = (weightInKg * 2.20462).toFixed(3);
 
 alert("Name: " + nickname + "\nHeight: " + feet + "’" + inches + "”\nWeight: " + weightInLbs + " lbs");
 </script>
-
-</html>
